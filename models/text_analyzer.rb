@@ -1,4 +1,4 @@
-
+require_relative "models/text_analyzer.rb"
 
 class TextAnalyzer
   attr_reader :text
